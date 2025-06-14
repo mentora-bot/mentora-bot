@@ -1,10 +1,8 @@
 
-▗▖  ▗▖▗▄▄▄▖▗▖  ▗▖▗▄▄▄▖▗▄▖ ▗▄▄▖  ▗▄▖ 
-▐▛▚▞▜▌▐▌   ▐▛▚▖▐▌  █ ▐▌ ▐▌▐▌ ▐▌▐▌ ▐▌
-▐▌  ▐▌▐▛▀▀▘▐▌ ▝▜▌  █ ▐▌ ▐▌▐▛▀▚▖▐▛▀▜▌ 
-▐▌  ▐▌▐▙▄▄▖▐▌  ▐▌  █ ▝▚▄▞▘▐▌ ▐▌▐▌  █
-                                                          
-                                                          
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFD2&center=true&vCenter=true&width=440&lines=Hi+I'm+Mentora+%F0%9F%A4%96;I+code+with+logic+%2B+vibes.;Anime+AI+%7C+WhatsApp+%26+Telegram+Bot+Creator;Digital+Sensei+%7C+Bot+Life+%7C+Let's+Build." alt="Typing SVG" />
+</p>                          
                                                           
                                                           
                          ---
@@ -49,8 +47,6 @@ Lightweight AI core for custom bots with character, logic, and lore.
 
 
 
-
----
 
 🧬 Tech Stack
 
